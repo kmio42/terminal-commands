@@ -8,6 +8,7 @@
 ### Mehrere Seiten auf eine Seite
 `pdfjam --nup 1x2 datei.pdf --outfile Dokument.pdf`
 * Weitere Optionen:
+
 | Option | Beschreibung |
 | ------ | ------------ |
 | --landscape/--no-landscape | Querformat |
